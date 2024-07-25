@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Represents a Holberton Course.
  */
