@@ -1,4 +1,3 @@
-
 /* eslint-disable *//**
  * Retrieves students in a given location.
  * @param {{
