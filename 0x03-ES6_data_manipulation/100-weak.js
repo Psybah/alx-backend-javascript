@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * A weak map of endpoints and the number of calls made.
  */

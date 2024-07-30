@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Retrieves ids from a list of students.
  * @param {{

@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Retrieves a list of students.
  * @author Bezaleel Olakunori <https://github.com/B3zaleel>

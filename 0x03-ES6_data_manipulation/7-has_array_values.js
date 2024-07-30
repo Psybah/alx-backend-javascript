@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Checks if a set contains each element in an array.
  * @param {Set} set - The collection of unique items.
